@@ -100,7 +100,7 @@ The following were not targeted:
 | Target Type      | Password-protected PDF                       |
 | Environment      | Authorised Cybersecurity Training Laboratory |
 
-> **Tooling clarification:** John the Ripper was used through the Johnny graphical interface on Windows. Kali Linux was **not** used for this Week 03 assessment.
+> **Tooling clarification:** *John the Ripper was used through the Johnny graphical interface on Windows. Kali Linux was **not** used for this Week 03 assessment*.
 
 ---
 

@@ -1,6 +1,11 @@
-# PDF PASSWORD SECURITY ASSESSMENT
-
+# 🔐 PDF Password Security Assessment Lab
 **Security Assessment Report · Week 03**
+
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+![John the Ripper](https://img.shields.io/badge/Tool-John%20the%20Ripper-red)
+![Johnny GUI](https://img.shields.io/badge/GUI-Johnny-orange)
+![Networkwalks](https://img.shields.io/badge/Validation-Networkwalks-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ### Assessment Information
 
 | **Assessment Detail** | **Information** |
@@ -324,25 +329,53 @@ If a protected document password is suspected to have been exposed or recovered 
 
 # 14. EVIDENCE MANAGEMENT
 
-All assessment evidence is stored in the repository under a dedicated `evidence/` directory.
+### 01 — PDF 1 Hash Extraction
 
-The evidence naming convention corresponds directly to the assessment phases.
+![PDF 1 Hash Extraction](01-hash-pdf1.png)
 
-```text
-evidence/
-├── 01-hash-pdf1.png
-├── 02-hash-pdf2.png
-├── 03-hash-pdf3.png
-├── 04-johnny-pdf1.png
-├── 05-johnny-pdf2.png
-├── 06-johnny-pdf3.png
-├── 07-networkwalks-pdf1.png
-├── 08-networkwalks-pdf2.png
-├── 09-networkwalks-pdf3.png
-├── 10-validated-pdf1.png
-├── 11-validated-pdf2.png
-└── 12-validated-pdf3.png
-```
+### 02 — PDF 2 Hash Extraction
+
+![PDF 2 Hash Extraction](02-hash-pdf2.png)
+
+### 03 — PDF 3 Hash Extraction
+
+![PDF 3 Hash Extraction](03-hash-pdf3.png)
+
+### 04 — PDF 1 Password Recovery
+
+![PDF 1 Password Recovery](04-johnny-pdf1.png)
+
+### 05 — PDF 2 Password Recovery
+
+![PDF 2 Password Recovery](05-johnny-pdf2.png)
+
+### 06 — PDF 3 Password Recovery
+
+![PDF 3 Password Recovery](06-johnny-pdf3.png)
+
+### 07 — PDF 1 Networkwalks Validation
+
+![PDF 1 Networkwalks Validation](07-networkwalks-pdf1.png)
+
+### 08 — PDF 2 Networkwalks Validation
+
+![PDF 2 Networkwalks Validation](08-networkwalks-pdf2.png)
+
+### 09 — PDF 3 Networkwalks Validation
+
+![PDF 3 Networkwalks Validation](09-networkwalks-pdf3.png)
+
+### 10 — PDF 1 Password Validation
+
+![PDF 1 Password Validation](10-validated-pdf1.png)
+
+### 11 — PDF 2 Password Validation
+
+![PDF 2 Password Validation](11-validated-pdf2.png)
+
+### 12 — PDF 3 Password Validation
+
+![PDF 3 Password Validation](12-validated-pdf3.png)
 
 > **Evidence Upload:** Upload your screenshots using the filenames above. The README is structured to display them in their relevant sections.
 
@@ -407,6 +440,24 @@ All three authorised targets were successfully recovered and subsequently valida
 
 ## Analyst
 
-**Kabo Sekoto**
+### Kabo Sekoto
+**🔐 Junior Cybersecurity Practitioner**
 
-*Cybersecurity Practical Lab · Week 03*
+> `Learning → Building → Testing → Securing`
+
+This repository forms part of my practical cybersecurity learning portfolio, documenting hands on labs, security experiments and technical progression.
+
+### 🌐 Cybersecurity Journey
+
+<p align="center">
+  <a href="https://linkedin.com/in/kabosekoto">
+    <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IamSkottK">
+    <img src="https://img.shields.io/badge/🔴_YouTube-Cybersecurity%20Lab-FF0000?style=for-the-badge" />
+  </a>
+</p>
+
+
+---

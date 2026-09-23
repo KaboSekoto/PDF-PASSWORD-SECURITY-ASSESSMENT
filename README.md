@@ -73,7 +73,7 @@ The assessment was designed to demonstrate:
 
 | Asset                   | Quantity | Purpose                   |
 | ----------------------- | -------: | ------------------------- |
-| Password-protected PDFs |        3 | Security assessment       |
+| Password protected PDFs |        3 | Security assessment       |
 | PDF hash material       |        3 | Password recovery testing |
 | Recovered credentials   |        3 | Authentication validation |
 
@@ -83,10 +83,9 @@ The following were not targeted:
 
 * Unrelated files
 * Personal accounts
-* Production systems
 * Unauthorized documents
 * External organisations
-* Third-party credentials
+* Third party credentials
 
 ---
 
@@ -155,7 +154,7 @@ The assessment followed a controlled, evidence driven workflow:
 
 **Password-hash extraction**
 
-Password-hash material was extracted from each of the three protected PDF documents.
+Password hash material was extracted from each of the three protected PDF documents.
 
 ### Evidence
 
@@ -377,8 +376,6 @@ If a protected document password is suspected to have been exposed or recovered 
 
 ![PDF 3 Password Validation](12-validated-pdf3.png)
 
-> **Evidence Upload:** Upload your screenshots using the filenames above. The README is structured to display them in their relevant sections.
-
 ---
 
 # 15. TOOLS & SKILLS
@@ -389,16 +386,14 @@ If a protected document password is suspected to have been exposed or recovered 
 * **Johnny GUI**
 * **Networkwalks**
 
-## Skills Demonstrated
+## 🛡️ Skills Demonstrated
 
-* Password Hash Extraction
-* Offline Password Recovery
-* Credential Validation
-* PDF Security Assessment
-* Security Evidence Collection
-* Defensive Security Analysis
-* Security Documentation
-* Security Reporting
+| 🔐 **Security & Technical Skills** | 📋 **Assessment & Documentation** |
+|---|---|
+| 🔑 Password Hash Extraction | 📊 Security Evidence Collection |
+| 🔓 Offline Password Recovery | 🛡️ Defensive Security Analysis |
+| ✅ Credential Validation | 📝 Security Documentation |
+| 📄 PDF Security Assessment | 📑 Security Reporting |
 
 ---
 
@@ -430,7 +425,7 @@ The testing progressed through:
 
 **Hash Acquisition → Password Recovery → Secondary Validation → Authentication**
 
-All three authorised targets were successfully recovered and subsequently validated by opening the corresponding protected documents.
+All three authorized targets were successfully recovered and subsequently validated by opening the corresponding protected documents.
 
 ### Final Result
 

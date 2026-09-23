@@ -440,7 +440,7 @@ All three authorized targets were successfully recovered and subsequently valida
 
 > `Learning → Cracking → Testing → Securing`
 
-This Week 03 assessment documents practical password-recovery and security testing using **John the Ripper through the Johnny graphical interface on Windows**, with **NetworkWalks tools** used as part of the workflow. The project demonstrates hands-on analysis, password recovery, verification, and successful access to protected PDF files.
+This Week 03 assessment documents practical password recovery and security testing using **John the Ripper through the Johnny graphical interface on Windows** and **NetworkWalks tools** used as part of the workflow. The project demonstrates hands on analysis, password recovery, verification and successful access to protected PDF files.
 
 <p align="center">
   <a href="https://linkedin.com/in/kabosekoto">

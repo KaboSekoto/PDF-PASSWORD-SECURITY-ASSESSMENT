@@ -447,8 +447,6 @@ All three authorised targets were successfully recovered and subsequently valida
 
 This repository forms part of my practical cybersecurity learning portfolio, documenting hands on labs, security experiments and technical progression.
 
-### 🌐 Cybersecurity Journey
-
 <p align="center">
   <a href="https://linkedin.com/in/kabosekoto">
     <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />

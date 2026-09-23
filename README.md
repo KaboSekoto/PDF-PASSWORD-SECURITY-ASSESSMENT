@@ -348,18 +348,6 @@ If a protected document password is suspected to have been exposed or recovered 
 
 ![PDF 3 Networkwalks Validation](09-networkwalks-pdf3.png)
 
-### 10 — PDF 1 Password Validation
-
-![PDF 1 Password Validation](10-validated-pdf1.png)
-
-### 11 — PDF 2 Password Validation
-
-![PDF 2 Password Validation](11-validated-pdf2.png)
-
-### 12 — PDF 3 Password Validation
-
-![PDF 3 Password Validation](12-validated-pdf3.png)
-
 ---
 
 # 15. TOOLS & SKILLS

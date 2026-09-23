@@ -102,48 +102,32 @@ The following were not targeted:
 
 > **Tooling clarification:** *John the Ripper was used through the Johnny graphical interface on Windows. Kali Linux was **not** used for this Week 03 assessment*.
 
----
-
 ## 5. METHODOLOGY
 
-The assessment followed a controlled, evidence driven workflow:
+A controlled workflow was followed to recover and verify access to the protected PDF files:
 
 ```text
-┌─────────────────────────┐
-│   Protected PDF Files   │
-└────────────┬────────────┘
-             │
-             ▼
-┌─────────────────────────┐
-│     Hash Extraction     │
-└────────────┬────────────┘
-             │
-             ▼
-┌─────────────────────────┐
-│    John the Ripper      │
-│   Johnny GUI / Windows  │
-└────────────┬────────────┘
-             │
-             ▼
-┌─────────────────────────┐
-│   Password Recovery     │
-└────────────┬────────────┘
-             │
-             ▼
-┌─────────────────────────┐
-│      Networkwalks       │
-│ Secondary Validation    │
-└────────────┬────────────┘
-             │
-             ▼
-┌─────────────────────────┐
-│   Authentication Test   │
-└────────────┬────────────┘
-             │
-             ▼
-┌─────────────────────────┐
-│     Access Confirmed    │
-└─────────────────────────┘
+🔒 Protected PDFs
+       │
+       ▼
+🔑 Hash Extraction
+       │
+       ▼
+🛠️ John the Ripper
+   Johnny GUI • Windows
+       │
+       ▼
+🔓 Password Recovery
+       │
+       ▼
+🌐 NetworkWalks
+     Validation
+       │
+       ▼
+✅ Password Verification
+       │
+       ▼
+📄 PDF Access Confirmed
 ```
 
 ---
